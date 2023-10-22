@@ -2,4 +2,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=sabikunnaharmimema&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
-https://www.buymeacoffee.com/sabikunnaharmimema
