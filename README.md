@@ -2,7 +2,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=sabikunnaharmimema&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in) 
 
-  <!--- <a href="https://www.buymeacoffee.com/sabikunnaharmimema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> --->
+<!--- 
+<img alt="Git Stats" src=" https://github-readme-stats.vercel.app/api?username=sabikunnaharmimema&amp;show_icons=true" height="150" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sabikunnaharmimema&amp;show_icons=true" style="max-width: 100%;">            --->
+
+<!--- 
+<a href="https://www.buymeacoffee.com/sabikunnaharmimema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>                                            --->
+
 
 
 
