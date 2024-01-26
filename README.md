@@ -1,12 +1,12 @@
 ### Hey, I'm Ema 👋🏽 
 
-I'm a developer, 19 years old. My enthusiasm lies in creating compelling digital experiences.
+19 years old. My enthusiasm lies in creating compelling digital experiences.
 
 <!-- - Check out my [website](https://www.sabikunnaharmimema.tech/) to learn more about me. -->
 
 ## 📦 Gears
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `TypeScript` `React.js`  `Next.js` `Bootstrap` `Tailwind CSS`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React.js` `Bootstrap` `Tailwind CSS`
 
 **Tools:** `Git` `GitLab` `VS Code`
 
