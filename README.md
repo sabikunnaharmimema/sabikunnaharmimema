@@ -1,19 +1,33 @@
-### Hey, I'm Ema 👋🏽 
+# EngineerOS 🚀
 
-19 years old. My enthusiasm lies in creating compelling digital experiences.
+180-Day journey to become a Software Engineer + Data Specialist
 
-<!-- - Check out my [website](https://www.sabikunnaharmimema.tech/) to learn more about me. -->
+## 👨‍💻 About
+Documenting my journey from student → job-ready engineer.
 
-## 📦 Gears
+## 🛠️ Tech Stack
+- Python
+- JavaScript (React, Node)
+- FastAPI
+- PostgreSQL
+- Pandas / Scikit-learn
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `React.js` `Bootstrap` `Tailwind CSS`
+## 📊 Progress
+- Day: X/180
+- Projects Completed: X/4
+- LeetCode: X/75
 
-**Tools:** `Git` `GitLab` `VS Code`
+## 🚀 Projects
+- Portfolio Website
+- Finance Tracker App
+- Economic Data Dashboard
+- ML Prediction App
 
-## ✨ Fun Facts 
+## 📅 Roadmap
+See ROADMAP.md
 
-- Tangled is my favorite movie.
-- As a kid, I wanted to be a Doctor.
+## 🧠 Learning Log
+See DAILY_LOG.md
 
 
 ## 📫 Contact
